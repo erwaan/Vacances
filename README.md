@@ -13,7 +13,7 @@ python main
 ```
 
 # Exemple d'exécution
-```bash
+```PS
 (venv) PS C:\Users\exemple> python .\main.py
 Entrez le nombre de personnes: 9
 Entrez le prénom de la personne 1: Maxime
